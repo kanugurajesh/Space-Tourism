@@ -20,8 +20,9 @@ Ready to embark on your space adventure? Follow these steps:
 2. Explore the Space Tourism website.
 3. Star the repository if you enjoy the experience!
 
-## Screenshots
-[Include screenshots or GIFs showcasing different sections of your website]
+## Demo
+
+![Space tourism website - Google Chrome 2023-12-03 14-05-02](https://github.com/kanugurajesh/Space-Tourism/assets/120458029/e05163af-bd0a-4e6e-9571-fd20714aa669)
 
 ## Contributing
 We welcome contributions to enhance the Space Tourism experience. Feel free to open issues, submit pull requests, or provide feedback.
